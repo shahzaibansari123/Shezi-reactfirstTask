@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Shezi-reactFirstTask/static/css/main.b6548c0e.chunk.css",
+    "main.js": "/Shezi-reactFirstTask/static/js/main.345b1067.chunk.js",
+    "main.js.map": "/Shezi-reactFirstTask/static/js/main.345b1067.chunk.js.map",
+    "runtime-main.js": "/Shezi-reactFirstTask/static/js/runtime-main.5124bad8.js",
+    "runtime-main.js.map": "/Shezi-reactFirstTask/static/js/runtime-main.5124bad8.js.map",
+    "static/js/2.38fd0898.chunk.js": "/Shezi-reactFirstTask/static/js/2.38fd0898.chunk.js",
+    "static/js/2.38fd0898.chunk.js.map": "/Shezi-reactFirstTask/static/js/2.38fd0898.chunk.js.map",
+    "index.html": "/Shezi-reactFirstTask/index.html",
+    "static/css/main.b6548c0e.chunk.css.map": "/Shezi-reactFirstTask/static/css/main.b6548c0e.chunk.css.map",
+    "static/js/2.38fd0898.chunk.js.LICENSE.txt": "/Shezi-reactFirstTask/static/js/2.38fd0898.chunk.js.LICENSE.txt",
+    "static/media/p1.af7ba1fe.jpg": "/Shezi-reactFirstTask/static/media/p1.af7ba1fe.jpg",
+    "static/media/p2.e6775f59.jpg": "/Shezi-reactFirstTask/static/media/p2.e6775f59.jpg",
+    "static/media/p3.df425dc0.jpg": "/Shezi-reactFirstTask/static/media/p3.df425dc0.jpg",
+    "static/media/post1.97f4e12a.png": "/Shezi-reactFirstTask/static/media/post1.97f4e12a.png",
+    "static/media/post2.f772bd9e.png": "/Shezi-reactFirstTask/static/media/post2.f772bd9e.png",
+    "static/media/post3.4bea2c12.jpg": "/Shezi-reactFirstTask/static/media/post3.4bea2c12.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5124bad8.js",
+    "static/js/2.38fd0898.chunk.js",
+    "static/css/main.b6548c0e.chunk.css",
+    "static/js/main.345b1067.chunk.js"
+  ]
+}
